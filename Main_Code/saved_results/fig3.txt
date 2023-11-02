@@ -1,0 +1,112 @@
+What is your previous experience in Mathematics?
+Mean, Median, Mode :  [-0.944, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.970, 0.941, 0.229  
+Range, Skew, Kurtosis :  [ 3.000, 0.984, 0.078 ]
+T-Test:  TtestResult(statistic=-4.01350180282898, pvalue=0.0009004769977088531, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+What is your previous experience in computer programming?
+Mean, Median, Mode :  [-1.056, -1.000, -1.000 ]
+SD, Var, SE :  [ 1.026, 1.052, 0.242  
+Range, Skew, Kurtosis :  [ 3.000, 1.037, -0.034 ]
+T-Test:  TtestResult(statistic=-4.242295068554326, pvalue=0.0005491669226711871, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+What is your previous experience in stem cell biology?
+Mean, Median, Mode :  [0.611, 1.000, 1.000 ]
+SD, Var, SE :  [ 1.339, 1.793, 0.316  
+Range, Skew, Kurtosis :  [ 4.000, -0.516, -1.227 ]
+T-Test:  TtestResult(statistic=1.8816076913913078, pvalue=0.07712677433397398, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.125)
+
+What is your previous experience in neuroscience?
+Mean, Median, Mode :  [1.222, 1.000, 1.000 ]
+SD, Var, SE :  [ 0.711, 0.506, 0.168  
+Range, Skew, Kurtosis :  [ 3.000, -1.276, 2.770 ]
+T-Test:  TtestResult(statistic=7.083130078384632, pvalue=1.8366372510417029e-06, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I am interested in the application of mathematics in biological processes
+Mean, Median, Mode :  [-1.611, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.591, 0.349, 0.139  
+Range, Skew, Kurtosis :  [ 2.000, 1.245, 0.521 ]
+T-Test:  TtestResult(statistic=-11.248205363248188, pvalue=2.689613702948372e-09, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+This course requires me to think at a deep level or use critical thinking
+Mean, Median, Mode :  [-1.667, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.745, 0.556, 0.176  
+Range, Skew, Kurtosis :  [ 3.000, 2.594, 6.240 ]
+T-Test:  TtestResult(statistic=-9.219544457292887, pvalue=5.025373861169821e-08, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+This course enables me to develop my skills examining questions that matter beyond the classroom
+Mean, Median, Mode :  [-1.444, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.762, 0.580, 0.180  
+Range, Skew, Kurtosis :  [ 2.000, 0.943, -0.646 ]
+T-Test:  TtestResult(statistic=-7.818417971333336, pvalue=4.982290358612415e-07, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I am interested in learning about stem cells
+Mean, Median, Mode :  [-1.222, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.786, 0.617, 0.185  
+Range, Skew, Kurtosis :  [ 2.000, 0.413, -1.270 ]
+T-Test:  TtestResult(statistic=-6.414047084329831, pvalue=6.414904684216944e-06, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I am interested in learning about neuroscience
+Mean, Median, Mode :  [-1.722, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.558, 0.312, 0.132  
+Range, Skew, Kurtosis :  [ 2.000, 1.895, 2.544 ]
+T-Test:  TtestResult(statistic=-12.718194653626151, pvalue=4.1146502011401653e-10, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I am interested in learning about organoids and connectoids
+Mean, Median, Mode :  [-1.500, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.687, 0.472, 0.162  
+Range, Skew, Kurtosis :  [ 2.000, 1.027, -0.228 ]
+T-Test:  TtestResult(statistic=-9.0, pvalue=7.086184920557863e-08, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I am comfortable using WetAi in the classroom setting
+Mean, Median, Mode :  [-1.000, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.943, 0.889, 0.222  
+Range, Skew, Kurtosis :  [ 3.000, 0.398, -1.031 ]
+T-Test:  TtestResult(statistic=-4.373213921133975, pvalue=0.0004143383552824858, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06559969214707187)
+
+I am comfortable using Jupyter notebooks in the classroom setting
+Mean, Median, Mode :  [-1.278, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.989, 0.978, 0.233  
+Range, Skew, Kurtosis :  [ 3.000, 0.922, -0.645 ]
+T-Test:  TtestResult(statistic=-5.326263716105463, pvalue=5.56931123966885e-05, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+I am comfortable performing multielectrode array (MEA) experiments
+Mean, Median, Mode :  [-0.222, 0.000, -1.000 ]
+SD, Var, SE :  [ 0.975, 0.951, 0.230  
+Range, Skew, Kurtosis :  [ 4.000, 0.456, -0.317 ]
+T-Test:  TtestResult(statistic=-0.9397429877987293, pvalue=0.36051135932006606, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.0625)
+
+I am comfortable identifying burst signals in a multi electrode array (MA)
+Mean, Median, Mode :  [-0.722, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.731, 0.534, 0.172  
+Range, Skew, Kurtosis :  [ 3.000, 0.371, 0.030 ]
+T-Test:  TtestResult(statistic=-4.075160906784538, pvalue=0.000787943045848617, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+I am interested in learning more about Internet-enabled technologies in the lab
+Mean, Median, Mode :  [-1.667, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.471, 0.222, 0.111  
+Range, Skew, Kurtosis :  [ 1.000, 0.707, -1.500 ]
+T-Test:  TtestResult(statistic=-14.577379737113251, pvalue=4.86850467295848e-11, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.17971249487899976)
+
+I am comfortable reading neuroscience literature, in order to develop my own hypothesis for an experiment
+Mean, Median, Mode :  [-0.722, -1.000, -1.000 ]
+SD, Var, SE :  [ 1.096, 1.201, 0.258  
+Range, Skew, Kurtosis :  [ 4.000, 0.701, 0.023 ]
+T-Test:  TtestResult(statistic=-2.7176467969753793, pvalue=0.01462579799935608, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.0625)
+

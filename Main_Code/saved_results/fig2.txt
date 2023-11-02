@@ -1,0 +1,77 @@
+I enjoyed learning about organoids
+Mean, Median, Mode :  [-1.500, -1.500, -2.000 ]
+SD, Var, SE :  [ 0.500, 0.250, 0.158  
+Range, Skew, Kurtosis :  [ 1.000, 0.000, -2.000 ]
+T-Test:  TtestResult(statistic=-8.999999999999998, pvalue=8.538051223166285e-06, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.15729920705028502)
+
+Performing a remote microscopy experiment was interesting
+Mean, Median, Mode :  [-1.333, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.667, 0.444, 0.222  
+Range, Skew, Kurtosis :  [ 2.000, 0.500, -0.750 ]
+T-Test:  TtestResult(statistic=-5.65685424949238, pvalue=0.0004776140575940057, df=8)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10247043485974937)
+
+The experiment selected helped solidify concepts discussed in class
+Mean, Median, Mode :  [-1.300, -1.500, -2.000 ]
+SD, Var, SE :  [ 0.781, 0.610, 0.247  
+Range, Skew, Kurtosis :  [ 2.000, 0.579, -1.136 ]
+T-Test:  TtestResult(statistic=-4.993438317382942, pvalue=0.000745618060127258, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I felt that performing remote microscopy allowed me to use novel and complex experimental models
+Mean, Median, Mode :  [-1.444, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.685, 0.469, 0.228  
+Range, Skew, Kurtosis :  [ 2.000, 0.837, -0.503 ]
+T-Test:  TtestResult(statistic=-5.9648090806346055, pvalue=0.00033635383295632106, df=8)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Performing remote experiments allowed me to multitask more than in person labs
+Mean, Median, Mode :  [-0.900, -1.000, -2.000 ]
+SD, Var, SE :  [ 1.136, 1.290, 0.359  
+Range, Skew, Kurtosis :  [ 3.000, 0.213, -1.619 ]
+T-Test:  TtestResult(statistic=-2.3772174470791843, pvalue=0.041416150486262744, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I enjoyed performing these experiments
+Mean, Median, Mode :  [-1.200, -1.500, -2.000 ]
+SD, Var, SE :  [ 0.872, 0.760, 0.276  
+Range, Skew, Kurtosis :  [ 2.000, 0.398, -1.568 ]
+T-Test:  TtestResult(statistic=-4.129483209670111, pvalue=0.0025614603121131676, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Data analysis was straightforward
+Mean, Median, Mode :  [-1.400, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.490, 0.240, 0.155  
+Range, Skew, Kurtosis :  [ 1.000, -0.408, -1.833 ]
+T-Test:  TtestResult(statistic=-8.573214099741122, pvalue=1.2681848720135205e-05, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.17971249487899976)
+
+Performing this experiment made me want to learn more about organoids
+Mean, Median, Mode :  [-1.400, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.800, 0.640, 0.253  
+Range, Skew, Kurtosis :  [ 2.000, 0.844, -0.922 ]
+T-Test:  TtestResult(statistic=-5.25, pvalue=0.0005276973114471651, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10247043485974937)
+
+Performing this experiment made me want to lear more about stem cells
+Mean, Median, Mode :  [-1.400, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.490, 0.240, 0.155  
+Range, Skew, Kurtosis :  [ 1.000, -0.408, -1.833 ]
+T-Test:  TtestResult(statistic=-8.573214099741122, pvalue=1.2681848720135205e-05, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.17971249487899976)
+
+I would recommend this experiment to my peers
+Mean, Median, Mode :  [-1.600, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.663, 0.440, 0.210  
+Range, Skew, Kurtosis :  [ 2.000, 1.398, 0.612 ]
+T-Test:  TtestResult(statistic=-7.236272269866326, pvalue=4.887996242779072e-05, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I would recommend this course to my peers
+Mean, Median, Mode :  [-1.900, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.300, 0.090, 0.095  
+Range, Skew, Kurtosis :  [ 1.000, 2.667, 5.111 ]
+T-Test:  TtestResult(statistic=-18.999999999999996, pvalue=1.4266930554364127e-08, df=9)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.17971249487899976)
+

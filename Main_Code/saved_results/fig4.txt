@@ -1,0 +1,42 @@
+I think I am capable and skillful at Mathematics
+Mean, Median, Mode :  [-0.556, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.762, 0.580, 0.180  
+Range, Skew, Kurtosis :  [ 3.000, 0.565, -0.206 ]
+T-Test:  TtestResult(statistic=-3.0070838351282063, pvalue=0.007933939339956862, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+Being a good mathematics student makes me feel that my classmates and teachers think more of me
+Mean, Median, Mode :  [-0.412, 0.000, -1.000 ]
+SD, Var, SE :  [ 0.771, 0.595, 0.187  
+Range, Skew, Kurtosis :  [ 3.000, 0.088, -0.451 ]
+T-Test:  TtestResult(statistic=-2.1349799846564648, pvalue=0.04857488920688251, df=16)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06559969214707187)
+
+My performance in mathematics largely depends on the methodology and empathy of the teachers
+Mean, Median, Mode :  [-0.056, 0.000, -1.000 ]
+SD, Var, SE :  [ 1.223, 1.497, 0.288  
+Range, Skew, Kurtosis :  [ 4.000, 0.106, -1.134 ]
+T-Test:  TtestResult(statistic=-0.18722058217982493, pvalue=0.8537039612497422, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.0625)
+
+In mathematics exams, I feel unsure, desperate and nervous
+Mean, Median, Mode :  [-0.294, -1.000, -1.000 ]
+SD, Var, SE :  [ 1.404, 1.972, 0.341  
+Range, Skew, Kurtosis :  [ 4.000, 0.404, -1.127 ]
+T-Test:  TtestResult(statistic=-0.8377078165833911, pvalue=0.41453371794047367, df=16)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.0625)
+
+Mathematics is useful and necessary in all areas of life
+Mean, Median, Mode :  [-1.278, -2.000, -2.000 ]
+SD, Var, SE :  [ 1.096, 1.201, 0.258  
+Range, Skew, Kurtosis :  [ 3.000, 1.326, 0.229 ]
+T-Test:  TtestResult(statistic=-4.808144333110286, pvalue=0.00016401431241510776, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Mathematics is useful and necessary for a career in Biology
+Mean, Median, Mode :  [-1.222, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.786, 0.617, 0.185  
+Range, Skew, Kurtosis :  [ 3.000, 1.100, 1.258 ]
+T-Test:  TtestResult(statistic=-6.414047084329831, pvalue=6.414904684216944e-06, df=17)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06559969214707187)
+

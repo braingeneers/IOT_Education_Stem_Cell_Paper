@@ -1,0 +1,112 @@
+I enjoyed learning about organoids
+Mean, Median, Mode :  [-1.625, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.564, 0.318, 0.115  
+Range, Skew, Kurtosis :  [ 2.000, 1.200, 0.450 ]
+T-Test:  TtestResult(statistic=-13.826204628394212, pvalue=1.2452221358497965e-12, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I enjoyed performing these experiments
+Mean, Median, Mode :  [-1.458, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.644, 0.415, 0.131  
+Range, Skew, Kurtosis :  [ 2.000, 0.780, -0.444 ]
+T-Test:  TtestResult(statistic=-10.857579347566515, pvalue=1.5833688686517335e-10, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Performing a remote electrophysiology experiment was interesting
+Mean, Median, Mode :  [-1.500, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.645, 0.417, 0.132  
+Range, Skew, Kurtosis :  [ 2.000, 0.930, -0.240 ]
+T-Test:  TtestResult(statistic=-11.144505372604026, pvalue=9.528315069947521e-11, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+The experiment selected helped solidify concepts discussed in class
+Mean, Median, Mode :  [-1.417, -1.500, -2.000 ]
+SD, Var, SE :  [ 0.702, 0.493, 0.143  
+Range, Skew, Kurtosis :  [ 3.000, 1.508, 3.141 ]
+T-Test:  TtestResult(statistic=-9.675728309014218, pvalue=1.418651156250854e-09, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+I felt that performing remote electrophysiology allowed me to use novel and complex experimental models
+Mean, Median, Mode :  [-1.500, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.764, 0.583, 0.156  
+Range, Skew, Kurtosis :  [ 2.000, 1.122, -0.367 ]
+T-Test:  TtestResult(statistic=-9.418826132501104, pvalue=2.3368603309179618e-09, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10247043485974937)
+
+Performing remote experiments allowed me to multitask more than in person labs
+Mean, Median, Mode :  [-0.957, -1.000, -2.000 ]
+SD, Var, SE :  [ 1.122, 1.259, 0.234  
+Range, Skew, Kurtosis :  [ 4.000, 0.838, -0.039 ]
+T-Test:  TtestResult(statistic=-3.9984982165793186, pvalue=0.0006053557957048348, df=22)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.0625)
+
+Performing remote experiments allowed me to do projects that require complex training
+Mean, Median, Mode :  [-1.333, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.687, 0.472, 0.140  
+Range, Skew, Kurtosis :  [ 2.000, 0.542, -0.799 ]
+T-Test:  TtestResult(statistic=-9.305279968604795, pvalue=2.9213732495816456e-09, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Performing remote experiments allowed me to study new areas beyond my academic program
+Mean, Median, Mode :  [-1.583, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.640, 0.410, 0.131  
+Range, Skew, Kurtosis :  [ 2.000, 1.267, 0.412 ]
+T-Test:  TtestResult(statistic=-11.862917582084185, pvalue=2.778826173484555e-11, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+Performing remote experiments allowed me to do projects that are not available for most students around the world
+Mean, Median, Mode :  [-1.870, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.337, 0.113, 0.070  
+Range, Skew, Kurtosis :  [ 1.000, 2.195, 2.817 ]
+T-Test:  TtestResult(statistic=-26.037793045238427, pvalue=5.045949409903731e-18, df=22)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.17971249487899976)
+
+After this course, I feel more comfortable reading and discussing mathematics literature
+Mean, Median, Mode :  [-0.875, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.832, 0.693, 0.170  
+Range, Skew, Kurtosis :  [ 3.000, 0.196, -0.736 ]
+T-Test:  TtestResult(statistic=-5.041929455236255, pvalue=4.2040567476258466e-05, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+Performing this experiment made me want to learn more about organoids
+Mean, Median, Mode :  [-1.458, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.815, 0.665, 0.166  
+Range, Skew, Kurtosis :  [ 3.000, 1.480, 1.441 ]
+T-Test:  TtestResult(statistic=-8.57694401686331, pvalue=1.2724602303790703e-08, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+Performing this experiment made me want to learn more about stem cells
+Mean, Median, Mode :  [-1.417, -2.000, -2.000 ]
+SD, Var, SE :  [ 0.862, 0.743, 0.176  
+Range, Skew, Kurtosis :  [ 3.000, 1.303, 0.628 ]
+T-Test:  TtestResult(statistic=-7.881719059133154, pvalue=5.532829635433506e-08, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+I would consider applying for a job working with stem cell and neuroscience data
+Mean, Median, Mode :  [-1.167, -1.500, -2.000 ]
+SD, Var, SE :  [ 1.027, 1.056, 0.210  
+Range, Skew, Kurtosis :  [ 3.000, 1.029, -0.172 ]
+T-Test:  TtestResult(statistic=-5.445906236508494, pvalue=1.5539355514785608e-05, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+I would consider further education in stem cell and neuroscience data
+Mean, Median, Mode :  [-1.250, -1.000, -1.000 ]
+SD, Var, SE :  [ 0.777, 0.604, 0.159  
+Range, Skew, Kurtosis :  [ 3.000, 0.998, 0.849 ]
+T-Test:  TtestResult(statistic=-7.712506636670704, pvalue=7.989914066360518e-08, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.06788915486182899)
+
+After this course, I feel more comfortable reading and discussing stem cell literature
+Mean, Median, Mode :  [-1.208, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.763, 0.582, 0.156  
+Range, Skew, Kurtosis :  [ 2.000, 0.370, -1.201 ]
+T-Test:  TtestResult(statistic=-7.598703738629549, pvalue=1.0252027322424473e-07, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10880943004054568)
+
+After this course, I feel more comfortable reading and discussing neuroscience literature
+Mean, Median, Mode :  [-1.375, -1.000, -2.000 ]
+SD, Var, SE :  [ 0.633, 0.401, 0.129  
+Range, Skew, Kurtosis :  [ 2.000, 0.508, -0.657 ]
+T-Test:  TtestResult(statistic=-10.412904082366813, pvalue=3.5436555625359215e-10, df=23)
+Wilcox:  WilcoxonResult(statistic=0.0, pvalue=0.10247043485974937)
+

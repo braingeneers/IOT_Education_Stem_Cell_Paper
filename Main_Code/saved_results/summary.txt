@@ -1,0 +1,34 @@
+
+
+#####  Figure 2  #####
+Total Questions:  11
+T-Test: % Significant (p-val=0.05) --- 1.0
+Wilcox: % Significant (p-val=0.10) --- 0.0
+Non-Significant Questions (T-Test):  
+
+
+#####  Figure 3  #####
+Total Questions:  16
+T-Test: % Significant (p-val=0.05) ---  0.88
+Wilcox: % Significant (p-val=0.10) ---  0.31
+Non-Significant Questions (T-Test): 
+    'What is your previous experience in stem cell biology?'
+    'I am comfortable performing multielectrode array (MEA) experiments'
+
+
+#####  Figure 4  #####
+Total Questions:  6
+T-Test: % Significant (p-val=0.05) --- 0.6666666666666666
+Wilcox: % Significant (p-val=0.10) --- 0.8333333333333334
+Non-Significant Questions (T-Test):  
+    'My performance in mathematics largely depends on the methodology and empathy of the teachers'
+    'In mathematics exams, I feel unsure, desperate and nervous'
+
+
+#####  Figure 6  #####
+Total Questions:  16
+T-Test: % Significant (p-val=0.05) --- 1.0
+Wilcox: % Significant (p-val=0.10) --- 0.375
+Non-Significant Questions (T-Test):  
+
+
